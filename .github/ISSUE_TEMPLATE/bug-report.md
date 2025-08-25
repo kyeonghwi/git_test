@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Describe this issue template's purpose here.
+about: 버그 리포트
 title: ''
 labels: ''
 assignees: ''
